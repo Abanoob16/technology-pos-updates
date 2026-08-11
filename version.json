@@ -1,0 +1,10 @@
+{
+  "version": "1.0.75",
+  "download_url": "https://YOUR-DOMAIN.com/updates/TechnologyPOS_Setup_1.0.75.exe",
+  "mandatory": false,
+  "notes": [
+    "إضافة نظام التحديث التلقائي",
+    "تحسينات وإصلاحات عامة"
+  ],
+  "sha256": ""
+}
