@@ -1,7 +1,6 @@
 {
   "version": "1.0.75",
-  "download_url": "https://YOUR-DOMAIN.com/updates/TechnologyPOS_Setup_1.0.75.exe",
-  "mandatory": false,
+  "download_url": "https://github.com/Abanoob16/technology-pos-updates/releases/download/v1.0.75/TechnologyPOS_Setup_1.0.75.exe",
   "notes": [
     "إضافة نظام التحديث التلقائي",
     "تحسينات وإصلاحات عامة"
