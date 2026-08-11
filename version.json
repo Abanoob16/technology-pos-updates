@@ -1,10 +1,11 @@
 {
-  "version": "1.0.77",
-  "download_url": "https://github.com/Abanoob16/technology-pos-updates/releases/download/v1.0.77/TechnologyPOS_Setup_1.0.77.exe",
+  "version": "1.0.78",
+  "download_url": "https://github.com/Abanoob16/technology-pos-updates/releases/download/v1.0.78/TechnologyPOS_Setup_1.0.78.exe",
   "mandatory": false,
   "notes": [
-    "إضافة نظام التحديث التلقائي",
-    "تحسينات وإصلاحات عامة"
+    "إصلاح تكرار ظهور التحديث بعد تثبيته",
+    "تحسين التحقق من الإصدار المثبت",
+    "إعادة تشغيل البرنامج تلقائياً بعد التحديث"
   ],
-  "sha256": "96eddb46e39ca43e02614b2b3150e5e11892ce45bb511740a2081f6eba9d519c"
+  "sha256": ""
 }
