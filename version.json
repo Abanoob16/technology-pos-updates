@@ -1,11 +1,17 @@
+cat > version.json <<'EOF'
 {
-  "version": "1.0.78",
-  "download_url": "https://github.com/Abanoob16/technology-pos-updates/releases/download/v1.0.78/TechnologyPOS_Setup_1.0.78.exe",
+  "version": "1.0.79",
+  "download_url": "https://github.com/Abanoob16/technology-pos-updates/releases/download/v1.0.79/TechnologyPOS_Setup_1.0.79.exe",
   "mandatory": false,
   "notes": [
+    "إضافة نظام الاشتراك السنوي للتحديثات",
+    "مدة الحصول على التحديثات المستمرة سنة واحدة من تاريخ تفعيل البرنامج",
+    "بعد انتهاء السنة يمكن تجديد اشتراك التحديثات لمدة سنة إضافية",
+    "يستمر البرنامج في العمل بشكل طبيعي بعد انتهاء اشتراك التحديثات",
     "إصلاح تكرار ظهور التحديث بعد تثبيته",
     "تحسين التحقق من الإصدار المثبت",
     "إعادة تشغيل البرنامج تلقائياً بعد التحديث"
   ],
   "sha256": ""
 }
+EOF
