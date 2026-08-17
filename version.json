@@ -1,7 +1,7 @@
 {
   "version": "1.0.80",
   "download_url": "https://github.com/Abanoob16/technology-pos-updates/releases/download/v1.0.80/TechnologyPOS_Setup_1.0.80.exe",
-  "asset_api_url": "https://api.github.com/repos/Abanoob16/technology-pos-updates/releases/assets/518201542",
+  "asset_api_url": "https://api.github.com/repos/Abanoob16/technology-pos-updates/releases/assets/518216535",
   "mandatory": false,
   "notes": [
     "إضافة إمكانية إنشاء صنف جديد مباشرة من داخل فاتورة المشتريات",
@@ -14,5 +14,5 @@
     "إصلاح مشاكل Scrollbar في شاشة المشتريات",
     "إصلاح أخطاء ListTile وتحسين استقرار شاشة إضافة الأصناف"
   ],
-  "sha256": "bddce80e0792c584c51c1a5679a48d06a6aa3266c6216bdecde4347e08fb5e5e"
+  "sha256": "f94d20ff7fe4b40db88ce30988062a9a0359197fee0b4fc669141273dc49cd40"
 }
