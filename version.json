@@ -1,7 +1,7 @@
 {
   "version": "1.0.80",
   "download_url": "https://github.com/Abanoob16/technology-pos-updates/releases/download/v1.0.80/TechnologyPOS_Setup_1.0.80.exe",
-  "asset_api_url": "https://api.github.com/repos/Abanoob16/technology-pos-updates/releases/assets/511850026",
+"asset_api_url": "https://api.github.com/repos/Abanoob16/technology-pos-updates/releases/assets/518201542",
   "mandatory": false,
   "notes": [
     "إضافة إمكانية إنشاء صنف جديد مباشرة من داخل فاتورة المشتريات",
