@@ -1,14 +1,13 @@
 {
-  "version": "1.0.83",
-
-  "download_url": "https://github.com/Abanoob16/technology-pos-updates/releases/download/v1.0.83/TechnologyPOS_Setup_1.0.83.exe",
-
-  "asset_api_url": "https://api.github.com/repos/Abanoob16/technology-pos-updates/releases/assets/544414469",
-
+  "version": "1.0.84",
+  "download_url": "https://github.com/Abanoob16/technology-pos-updates/releases/download/v1.0.84/TechnologyPOS_Setup_1.0.84.exe",
+  "asset_api_url": "https://api.github.com/repos/Abanoob16/technology-pos-updates/releases/assets/547661830",
   "mandatory": false,
-
   "notes": [
     "إضافة نظام تحكم المطور المحسن",
+    "تحسين تصميم شاشة Developer Monitor",
+    "إضافة متابعة الأجهزة والمستخدمين",
+    "إضافة تمديد مدة التحديثات لجهاز معين",
     "تحسين إيقاف وتشغيل النسخ عن بُعد",
     "فصل التحكم في التفعيل عن التحديثات",
     "إضافة Maintenance Mode",
@@ -16,16 +15,22 @@
     "إضافة قنوات تحديث Stable وBeta وDeveloper",
     "إضافة Device Secret لحماية الأجهزة",
     "إضافة Crash Reporting",
+    "إصلاح عرض Crashes",
+    "إصلاح عرض Audit Log",
+    "إصلاح إدارة حسابات المطورين",
     "إضافة Remote Diagnostics",
     "إضافة Health Check للأجهزة",
     "إضافة Trusted Server Time وOffline Grace Period",
     "إضافة Backup قبل التحديث",
     "إضافة Rollback في حالة فشل التحديث",
-    "تحسين شاشة Developer Monitor وإضافة Scroll",
+    "إصلاح ظهور شاشة الإعدادات بعد تحديث البرنامج",
+    "حفظ اسم النشاط واسم المحل واللوجو بعد التحديث",
+    "حفظ إعدادات الطابعات بعد التحديث",
+    "منع إعادة تسجيل بيانات النشاط مرة أخرى",
+    "حفظ إعداد إظهار أو إخفاء مربع الربحية",
     "إصلاح مشكلة تكرار بنود الفاتورة بعد تعليقها",
     "إصلاح خطأ unit_factor في الأصناف الأكثر مبيعًا",
     "تحسين استقرار وأمان نظام التحديثات"
   ],
-
-  "sha256": "5f82c1c44c23197bf05d7eafbe2c46c5f6fc07b4c7ab5a533cf096b9226e1d7c"
+  "sha256": "8c3e8d692d4cb37c584b45fca299c6ad75e888162f2118b389298c5aea49aac4"
 }
