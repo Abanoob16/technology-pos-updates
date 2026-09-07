@@ -1,10 +1,10 @@
 {
   "version": "1.0.84",
   "download_url": "https://github.com/Abanoob16/technology-pos-updates/releases/download/v1.0.84/TechnologyPOS_Setup_1.0.84.exe",
-  "asset_api_url": "https://api.github.com/repos/Abanoob16/technology-pos-updates/releases/assets/547661830",
+  "asset_api_url": "https://api.github.com/repos/Abanoob16/technology-pos-updates/releases/assets/549112503",
   "mandatory": false,
   "notes": [
-    "إضافة نظام تحكم المطور المحسن",
+    
     "تحسين تصميم شاشة Developer Monitor",
     "إضافة متابعة الأجهزة والمستخدمين",
     "إضافة تمديد مدة التحديثات لجهاز معين",
@@ -32,5 +32,5 @@
     "إصلاح خطأ unit_factor في الأصناف الأكثر مبيعًا",
     "تحسين استقرار وأمان نظام التحديثات"
   ],
-  "sha256": "8c3e8d692d4cb37c584b45fca299c6ad75e888162f2118b389298c5aea49aac4"
+  "sha256": "05584d0d0c017cb94215a6ab553b7fbe6b20610e89af28093925c6af508e09b3"
 }
