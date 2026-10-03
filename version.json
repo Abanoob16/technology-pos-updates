@@ -1,6 +1,6 @@
 {
-  "version": "1.0.100",
-  "download_url": "https://github.com/Abanoob16/technology-pos-updates/releases/download/v1.0.100/TechnologyPOS_Setup_1.0.100_online.exe",
+  "version": "1.0.101",
+  "download_url": "https://github.com/Abanoob16/technology-pos-updates/releases/download/v1.0.101/TechnologyPOS_Setup_1.0.101_online.exe",
   "asset_api_url": "https://api.github.com/repos/Abanoob16/technology-pos-updates/releases/assets/607905796",
   "mandatory": false,
   "notes": [
@@ -45,9 +45,12 @@
     "إصلاح نفس مشكلة رسالة الحفظ في مرتجع المشتريات",
     "الإبقاء على التحقق من رقم الفاتورة فقط للأصناف المرتبطة بالسيريالات",
     "تحسين التعامل مع Serial Numbers أثناء المرتجعات",
+    "إصلاح تكرار ظهور رسالة وجود تحديث بعد تثبيت آخر إصدار",
+    "تحسين اكتشاف رقم الإصدار المثبت على Windows",
+    "تحسين قراءة الإصدار من Registry وملف EXE وinstalled_version.txt",
     "تحسين استقرار المزامنة بين البيانات المحلية والكلاود",
     "تحسين التعامل مع الفروع والمخازن المتعددة",
     "تحسين استقرار وأمان نظام التحديثات"
   ],
-  "sha256": "3139184ac6027c8024a3f26b965309cf19aadcfd3104780ad0ae6c7e51244bc7"
+  "sha256": "bd3c8abaab7296820e6d7377d97d9f88051d739952b8e99c01ceea4042a34898"
 }
